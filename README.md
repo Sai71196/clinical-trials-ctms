@@ -186,7 +186,7 @@ The schema was built with the following standards in mind:
 | **GitHub** | Version control and project hosting |
 
 ---
-**Live Dashboard:** https://sai71196.github.io/clinical-trials-ctms/dashboard/
+**Live Dashboard:** https://sai71196.github.io/clinical-trials-ctms/
 
 ## 👩‍💻 Team
 
